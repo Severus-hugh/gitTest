@@ -5,5 +5,7 @@ public class demo1 {
 
     public void test1(){
         System.out.println("push new code from lin");
+        System.out.println("test");
+        System.out.println("test2");
     }
 }
